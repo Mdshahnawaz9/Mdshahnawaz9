@@ -1,10 +1,16 @@
 # Hi, I'm Mohammed Shahnawaz 👋  
 🎓 CSE (AI & ML) Student  
-💻 Passionate about coding, data-driven solutions & problem solving  
+💻 Strong foundation in java and python(basic) Languages, specialize in building web Application  & problem solving  
 
 ---
 
-## 🔭 Current & Completed Projects
+## 🛠️ Skills
+- **Languages:** Java, Python, Web Devlopment(HTML, CSS, JavaScript  
+- **CS Fundamentals:** Data Analytics, Computer Networks, Operating Systems, DBMS  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA , MS office
+
+---
+## 🔭Past & present working Projects
 
 ### 🚀 Flood Forecasting  
 A machine learning to predict flood risks by collaboratively training models on data from multiple regions without sharing sensitive local data.
@@ -14,26 +20,28 @@ Full-stack + Android app for real-time slot booking and parking management.
 
 ---
 
-## 🛠️ Skills & Tech Stack  
-- **Languages:** Java, Python, SQL  
-- **CS Fundamentals:** Data Analytics, Computer Networks, Operating Systems, DBMS  
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Android Studio  
-
----
-
 ## 🌱 Currently Learning  
-- Java DSA (Recursion, Algorithms, Problem-Solving)  
+- Java DSA (Backtracking)
+- problem solving(Leetcode)  
 - Python Basics  
-- SQL Basics  
+- MySQL Basics  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Shahnawaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdshahnawaz9&show_icons=true&theme=radical)  
-## 🧑‍💻 Most Used Languages
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mdshahnawaz9&theme=tokyonight)
+![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdshahnawaz9&theme=tokyonight)
+![Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mdshahnawaz9&theme=tokyonight)
+
+ 
+## 🧑‍💻 Dominant Languages used
 ![Java](https://img.shields.io/badge/Java-98%25-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-50%25-yellow?style=for-the-badge&logo=python&logoColor=black)
+
+
+---
+
 
 
   
@@ -50,4 +58,4 @@ Full-stack + Android app for real-time slot booking and parking management.
 
 ---
 
-⭐ *"Learning every day. Building every day."*
+⭐ *"Keep learning, keep hustling — every step forward is a step closer to greatness."*
