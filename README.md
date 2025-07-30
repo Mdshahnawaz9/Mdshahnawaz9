@@ -36,8 +36,9 @@ Full-stack + Android app for real-time slot booking and parking management.
 
  
 ## 🧑‍💻 Dominant Languages used
-![Java](https://img.shields.io/badge/Java-98%25-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![Python](https://img.shields.io/badge/Python-50%25-yellow?style=for-the-badge&logo=python&logoColor=black)
+- 💻 Java ▰▰▰▰▰▰▰▰▰▰ 99%
+- 🐍 Python ▰▰▰▰▰▰▰▰ 50%
+
 
 
 ---
